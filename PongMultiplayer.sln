@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongServer", "PongServer\PongServer.csproj", "{7158ABC3-8BAD-4FF1-8B91-36DC8C947F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongClient", "PongClient\PongClient.csproj", "{52638D3D-BB29-404F-B520-B953B23F6195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongShared", "PongShared\PongShared.csproj", "{59A9C19F-5185-44C5-94B3-A0ED328DCF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7158ABC3-8BAD-4FF1-8B91-36DC8C947F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7158ABC3-8BAD-4FF1-8B91-36DC8C947F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7158ABC3-8BAD-4FF1-8B91-36DC8C947F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7158ABC3-8BAD-4FF1-8B91-36DC8C947F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52638D3D-BB29-404F-B520-B953B23F6195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52638D3D-BB29-404F-B520-B953B23F6195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52638D3D-BB29-404F-B520-B953B23F6195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52638D3D-BB29-404F-B520-B953B23F6195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A9C19F-5185-44C5-94B3-A0ED328DCF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A9C19F-5185-44C5-94B3-A0ED328DCF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A9C19F-5185-44C5-94B3-A0ED328DCF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A9C19F-5185-44C5-94B3-A0ED328DCF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
